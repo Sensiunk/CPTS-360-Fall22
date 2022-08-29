@@ -15,7 +15,7 @@ int main(int argc, char *argv[ ], char *env[ ])
 
   a=1; b=2; c=3;
   A(a,b);
-  printf("exit main\n");
+  printf("exit main");
 }
 	      
 int A(int x, int y)
